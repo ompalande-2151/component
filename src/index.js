@@ -16,7 +16,8 @@
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 // reportWebVitals();
 import ReactDOM from 'react-dom/client'
-import Om from './Om'
+// import Om from './Om'
+import Om from './comp'
 const root = ReactDOM.createRoot(document.getElementById('root'))
 
 root.render(
